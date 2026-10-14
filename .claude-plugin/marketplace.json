@@ -1,0 +1,20 @@
+{
+  "name": "rolt",
+  "description": "Rolt reviews the change on your branch in the cloud, from Claude Code.",
+  "owner": {
+    "name": "Rolt",
+    "url": "https://rolt.ai"
+  },
+  "plugins": [
+    {
+      "name": "rolt",
+      "description": "Review the change on your branch with Rolt and act on its findings.",
+      "homepage": "https://rolt.ai",
+      "source": {
+        "source": "npm",
+        "package": "rolt",
+        "version": "0.1.0"
+      }
+    }
+  ]
+}
